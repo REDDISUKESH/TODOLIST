@@ -15,7 +15,7 @@ The useState hook allows functional components to manage local state. In a todo 
 ### useEffect
 The useEffect hook enables functional components to perform side effects, such as fetching data, subscribing to events, or updating the DOM, in a declarative way. In a todo list application, you can use useEffect to synchronize data with external sources or perform cleanup tasks.
 
-![Alt text]("C:\Users\SATWIK\OneDrive\Pictures\Screenshots\Screenshot 2024-04-18 225025.png" "Optional title")
+![Alt text]("https://imgur.com/a/RBx2zUs" "Optional title")
 
 
 
