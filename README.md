@@ -28,8 +28,6 @@ The useEffect hook enables functional components to perform side effects, such a
 
 ![Screenshot 2024-05-04 231624](https://github.com/REDDISUKESH/TodoList/assets/133877665/273510a9-4f0d-4a0f-ad30-6b2b8a459b4e)
 
-### Remainging Tasks
-![Screenshot 2024-04-18 234917](https://github.com/REDDISUKESH/TodoList/assets/133877665/d83d1619-dfc0-4b36-b37b-266baef26628)
 
 ## Conclusion
 In summary, React provides a solid foundation for building a todo list application thanks to its component-based architecture, virtual DOM rendering, state management capabilities, and extensive ecosystem of libraries and tools. Whether you're building a simple todo list or a more complex task management tool, React's flexibility, performance, and developer-friendly features make it an ideal choice for turning your ideas into reality.
